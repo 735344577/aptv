@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29/af3ca223ce0f11575d857df56e3f7d_180_135.jpg?1645792680" group-title="DOTA2", Maybe
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29" group-title="DOTA2", Maybe
 http://live.aptvapp.com/live/huya/211888
-EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29/af3ca223ce0f11575d857df56e3f7d_180_135.jpg?1645792680" group-title="DOTA2", Sccc`
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29" group-title="DOTA2", Sccc`
 http://live.aptvapp.com/live/huya/123888
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/41/39fb2e647f3be3e7b28e56871abca3_180_135.jpg?1653379018" group-title="星秀", 快乐老家
 http://live.aptvapp.com/live/huya/880351
