@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1665172072" group-title="王者荣耀", 久爱-小予神【矛神】
-http://live.aptvapp.com/live/huya/503708
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29/af3ca223ce0f11575d857df56e3f7d_180_135.jpg?1645792680" group-title="DOTA2", Maybe
+http://live.aptvapp.com/live/huya/211888
+EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/29/af3ca223ce0f11575d857df56e3f7d_180_135.jpg?1645792680" group-title="DOTA2", Sccc`
+http://live.aptvapp.com/live/huya/123888
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/41/39fb2e647f3be3e7b28e56871abca3_180_135.jpg?1653379018" group-title="星秀", 快乐老家
 http://live.aptvapp.com/live/huya/880351
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/e4/837d557cdf07c6adf85a62540ce53d_180_135.jpg?1578575876" group-title="英雄联盟", 小超梦ovo
-http://live.aptvapp.com/live/huya/257085
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/cb/ab41300582958653660b6620e05fd1_180_135.jpg?1577343415" group-title="王者荣耀", LING-树叶
-http://live.aptvapp.com/live/huya/296191
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/58/cdd99602b4c9738d99907f090d2031_180_135.jpg?1642284972" group-title="王者荣耀", 狼队Hurt
-http://live.aptvapp.com/live/huya/742611
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/f3/6f3bf8adc63a7432f5e12b8bec4662_180_135.jpg?1595339002" group-title="和平精英", 鲨鱼哟
 http://live.aptvapp.com/live/huya/400298
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/31/d8e19bbe4c19edbd39b9841e29e134_180_135.jpg?1621915070" group-title="王者荣耀", 宇晨【马可导师】
-http://live.aptvapp.com/live/huya/691346
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/92/1d1637a1e80b80339bd262f2f10bcf_180_135.jpg?1669859578" group-title="天龙八部手游", 一剑止战、
-http://live.aptvapp.com/live/huya/599
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/50/31ec45ae25460bfccc5ec977ea3f65_180_135.jpg?1624186817" group-title="王者荣耀", 心态
-http://live.aptvapp.com/live/huya/1066
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/a2/6db5bd39b3c977f87d29c6afa658eb_180_135.jpg?1581102087" group-title="神武4电脑版", 新颖-宗盛
-http://live.aptvapp.com/live/huya/12168
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/63/f20eec58c49c79f9925e88c60463e0_180_135.jpg?1537334316" group-title="英雄联盟", 微竞丶莎莉
-http://live.aptvapp.com/live/huya/836458
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/c5/97bb45ec4c15b516d70751566f5e19_180_135.jpg?1585926879" group-title="lol云顶之弈", Dae丶红莲
-http://live.aptvapp.com/live/huya/229085
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/b7/95f4e8360430103ed697f829661272_180_135.jpg?1605617491" group-title="天天吃鸡", 拉风龙
 http://live.aptvapp.com/live/huya/88863
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/e2/1ad28507af866687d6d6687ba274e6_180_135.jpg?1616237891" group-title="星秀", 正恒丶小6【5266】
